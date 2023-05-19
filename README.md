@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rossmaxx
 - 👀 I’m interested in music, fitness, computers and some other things.
-- 🌱 I’m currently learning c/c++.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on new projects.
 - link to my discord server - https://discord.gg/VVKfXvthfx
 
