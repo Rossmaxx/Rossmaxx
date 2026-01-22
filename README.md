@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Rossmaxx
-- 👀 I’m interested in music and computers, and some other things.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on new projects.
+- Hi, I’m @Rossmaxx
+- I’m interested in many things, which includes coding, computers and other technical and non technical topics.
+- Nice to meet you.
 
 <!---
 Rossmaxx/Rossmaxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
